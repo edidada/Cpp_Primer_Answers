@@ -1,0 +1,3 @@
+add_executable(ch04_exercise4_21 exercise4_21.cpp)
+add_executable(ch04_exercise4_22 exercise4_22.cpp)
+add_executable(ch04_exercise4_28 exercise4_28.cpp)

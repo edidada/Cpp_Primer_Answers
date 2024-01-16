@@ -1,0 +1,1 @@
+add_executable(ch10_exercise10_1 exercise10_1.cpp)
