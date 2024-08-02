@@ -1,1 +1,7 @@
 add_executable(ch07_exercise7_1 exercise7_1.cpp)
+add_executable(ch07_exercise7_3 exercise7_3.cpp)
+add_executable(ch07_exercise7_7 exercise7_7.cpp)
+add_executable(ch07_exercise7_11 exercise7_11.cpp)
+add_executable(ch07_exercise7_13 exercise7_13.cpp)
+add_executable(ch07_exercise7_27 exercise7_27.cpp)
+add_executable(ch07_exercise7_41 exercise7_41_main.cpp exercise7_41.cpp)
