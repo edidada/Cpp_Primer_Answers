@@ -1,1 +1,5 @@
 add_executable(ch15_exercise15_3 exercise15_3.cpp)
+add_executable(ch15_exercise15_6 exercise15_6.cpp)
+add_executable(ch15_exercise15_20 exercise15_20.cpp)
+add_executable(ch15_exercise15_28 exercise15_28.cpp)
+add_executable(ch15_main main.cpp)

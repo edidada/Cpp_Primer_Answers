@@ -1,1 +1,8 @@
 add_executable(ch13_exercise13_13 exercise13_13.cpp)
+add_executable(ch13_exercise13_17_1 exercise13_17_1.cpp)
+add_executable(ch13_exercise13_17_2 exercise13_17_2.cpp)
+add_executable(ch13_exercise13_17_3 exercise13_17_3.cpp)
+add_executable(ch13_exercise13_34 exercise13_34.cpp)
+add_executable(ch13_exercise13_39 exercise13_39.cpp)
+add_executable(ch13_exercise13_44 exercise13_44.cpp exercise13_44_main.cpp)
+add_executable(ch13_exercise13_58 exercise13_58.cpp)
