@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
 
-#include "exercise15_5.h"
-#include "bulk_quote.h"
-#include "limit_quote.h"
-#include "disc_quote.h"
+//#include "exercise15_5.h"
+//#include "Bulk_quote.h"
+//#include "Limit_quote.h"
+#include "Disc_quote.h"
 
 class Base
 {

@@ -1,3 +1,4 @@
+add_library(ch14_exercise14_2_main exercise14_5_main.cpp exercise14_2.cpp)
 add_executable(ch14_exercise14_5_main exercise14_5_main.cpp exercise14_5.cpp)
 add_executable(ch14_exercise14_7_main exercise14_7_main.cpp exercise14_7.cpp)
 add_executable(ch14_exercise14_15_main exercise14_15_main.cpp exercise14_15.cpp)
