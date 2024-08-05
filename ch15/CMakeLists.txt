@@ -1,5 +1,6 @@
 add_executable(ch15_exercise15_3 exercise15_3.cpp)
-add_executable(ch15_exercise15_6 exercise15_6.cpp)
+add_executable(ch15_exercise15_6 exercise15_6.cpp Query.cc ../ch12/TextQuery.cc)
+target_include_directories(ch15_exercise15_6 PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/../ ${CMAKE_CURRENT_SOURCE_DIR}/../ch06/ ${CMAKE_CURRENT_SOURCE_DIR}/../ch12/)
 add_executable(ch15_exercise15_20 exercise15_20.cpp)
 add_executable(ch15_exercise15_28 exercise15_28.cpp)
 add_executable(ch15_main main.cpp)

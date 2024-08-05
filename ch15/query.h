@@ -5,9 +5,9 @@
 #include <string>
 #include <memory>
 #include "query_base.h"
-#include "queryresult.h"
-#include "textquery.h"
-#include "wordquery.h"
+#include "Queryresult.h"
+#include "Textquery.h"
+#include "Wordquery.h"
 
 
 
