@@ -1,7 +1,7 @@
 #ifndef LIMIT_QUOTE_H
 #define LIMIT_QUOTE_H
 
-#include "disc_quote.h"
+#include "Disc_quote.h"
 
 class Limit_quote : public Disc_quote
 {

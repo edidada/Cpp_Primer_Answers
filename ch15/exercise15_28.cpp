@@ -3,10 +3,10 @@
 #include <vector>
 #include <memory>
 
-#include "quote.h"
-#include "bulk_quote.h"
-#include "limit_quote.h"
-#include "disc_quote.h"
+//#include "quote.h"
+//#include "Bulk_quote.h"
+#include "Limit_quote.h"
+//#include "Disc_quote.h"
 
 
 int main()
