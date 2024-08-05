@@ -8,7 +8,7 @@ using std::string;
 
 int main()
 {
-	std::ifstream ifs("H:/code/C++/Cpp_Primer_Answers/data/books.txt");
+	std::ifstream ifs("../../../data/books.txt");
 	std::istream_iterator<string> in(ifs), eof;
 	std::vector<string> vec;
 	std::copy(in, eof, back_inserter(vec));

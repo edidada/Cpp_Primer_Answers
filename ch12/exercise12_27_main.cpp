@@ -19,7 +19,7 @@ void runQueries(ifstream& infile)
 
 int main()
 {
-	ifstream ifs("H:/code/C++/Cpp_Primer_Answers/data/storyDataFile.txt");
+	ifstream ifs("../../../data/storyDataFile.txt");
 	runQueries(ifs);
 	return 0;
 }

@@ -16,7 +16,7 @@ void find_not_in(const string& s,string& result)
 
 int main()
 {
-	ifstream ifs("H:/code/C++/Cpp_Primer_Answers/data/letter.txt");
+	ifstream ifs("../../../data/letter.txt");
 	if (!ifs)
 		return -1;
 

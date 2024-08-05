@@ -8,7 +8,7 @@ using std::vector; using std::string; using std::ifstream; using std::istringstr
 
 int main()
 {
-	ifstream ifs("E:/code/cpp_primer_answer/Cpp_Primer_Answers/data/books.txt");
+	ifstream ifs("../../../data/books.txt");
 	if (!ifs)
 	{
 		cerr << "No data?" << endl;

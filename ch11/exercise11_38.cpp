@@ -11,8 +11,8 @@ string transform(const string&, unordered_map<string, string>&);
 
 int main()
 {
-	ifstream ifs_rules("H:/code/C++/Cpp_Primer_Answers/data/transform_rules.txt");
-	ifstream ifs_txt("H:/code/C++/Cpp_Primer_Answers/data/for_transform.txt");
+	ifstream ifs_rules("../../../data/transform_rules.txt");
+	ifstream ifs_txt("../../../data/for_transform.txt");
 
 	word_transform(ifs_rules, ifs_txt);
 	return 0;

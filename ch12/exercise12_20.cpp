@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	ifstream ifs("E:/code/cpp_primer_answer/Cpp_Primer_Answers/data/books.txt");
+	ifstream ifs("../../../data/books.txt");
 	StrBlob sb;
 	string s;
 	while (getline(ifs, s))

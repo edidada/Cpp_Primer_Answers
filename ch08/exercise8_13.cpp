@@ -26,7 +26,7 @@ string format(const string& str)
 
 int main()
 {
-	ifstream ifs("E:/code/cpp_primer_answer/Cpp_Primer_Answers/data/phonenumbers.txt");
+	ifstream ifs("../../../data/phonenumbers.txt");
 	if (!ifs)
 	{
 		cerr << "no phone numbers?" << endl;

@@ -16,7 +16,7 @@ using std::shared_ptr;
 
 int main()
 {
-	std::ifstream file("H:/code/C++/Cpp_Primer_Answers/data/storyDataFile.txt");
+	std::ifstream file("../../../data/storyDataFile.txt");
 	vector<string> input;
 	std::map<string, std::set<decltype(input.size())>> dictionary;
 	decltype(input.size()) lineNo{ 0 };
