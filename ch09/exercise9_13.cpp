@@ -1,5 +1,7 @@
 #include <iostream>
-#include <string>
+#ifdef _WIN32
+  #include <string>
+#endif
 #include <vector>
 #include <list>
 
